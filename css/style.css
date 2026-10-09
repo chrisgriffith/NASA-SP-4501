@@ -516,3 +516,14 @@ figure.table table.bordered [rowspan] {
     gap: 8px;
   }
 }
+
+
+main ol {
+  list-style-type: none;
+}
+
+main ol li {
+  text-indent: -2em;
+  margin-inline-start: 2em;
+  padding-block-start: 1em;
+}
